@@ -1,0 +1,11 @@
+.worker_img>img{
+    width: 100px;
+    height: 100px;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+}
+header>nav{
+    padding-left: 20px;
+}
